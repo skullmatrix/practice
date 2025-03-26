@@ -1,3 +1,3 @@
 #Practice
 
-<small> bogo </small>
+<small> pratice ta choy </small>
